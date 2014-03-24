@@ -1,0 +1,1 @@
+Managed to solve a Facebook Challenge problem. But a few minutes over the 2 hour time period. Refrained from posting it here since the problem is probably going to be reused.
